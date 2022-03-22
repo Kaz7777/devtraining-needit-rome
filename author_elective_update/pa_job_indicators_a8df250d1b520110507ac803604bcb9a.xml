@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>2</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>temporary job for collecting State - Problem: Due Monthly</display>
+        <indicator display_value="Problem: Due Monthly">776c29c91b520110507ac803604bcb6e</indicator>
+        <job display_value="temporary job for collecting State">60df250d1b520110507ac803604bcb9a</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-16 02:46:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a8df250d1b520110507ac803604bcb9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Problem: Due Monthly.temporary job for collecting State</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_job_indicators_a8df250d1b520110507ac803604bcb9a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-16 02:46:50</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d4105c31dbb7a010f37acac505961976</instance_id>
+        <instance_name>dev112687</instance_name>
+        <name>pa_job_indicators_a8df250d1b520110507ac803604bcb9a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>2</collect><collect_indicator>true</collect_indicator><display>temporary job for collecting State - Problem: Due Monthly</display><indicator display_value="Problem: Due Monthly">776c29c91b520110507ac803604bcb6e</indicator><job display_value="temporary job for collecting State">60df250d1b520110507ac803604bcb9a</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-16 02:46:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a8df250d1b520110507ac803604bcb9a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Problem: Due Monthly.temporary job for collecting State</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_job_indicators_a8df250d1b520110507ac803604bcb9a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-16 02:46:50</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>-1382688106</payload_hash>
+        <record_name>temporary job for collecting State - Problem: Due Monthly</record_name>
+        <reverted_from/>
+        <source>9a9a95761b020110507ac803604bcb04</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-16 02:46:50</sys_created_on>
+        <sys_id>7cdf658d1b520110507ac803604bcb20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f909ef4290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-16 02:46:50</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>b4df658da05201105513b0d04ad78320</update_guid>
+        <update_guid_history>b4df658da05201105513b0d04ad78320:-1382688106</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="temporary job for collecting State - Problem: Due Monthly">a17dca451bd20110507ac803604bcbde</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-16 04:56:20</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>1b484f6bf5364a2eb7d7916012353de9</sys_id>
+        <sys_metadata>a8df250d1b520110507ac803604bcb9a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Problem: Due Monthly.temporary job for collecting State</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="temporary job for collecting State">60df250d1b520110507ac803604bcb9a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_job_indicators_a8df250d1b520110507ac803604bcb9a</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_a8df250d1b520110507ac803604bcb9a">7cdf658d1b520110507ac803604bcb20</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-16 04:56:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

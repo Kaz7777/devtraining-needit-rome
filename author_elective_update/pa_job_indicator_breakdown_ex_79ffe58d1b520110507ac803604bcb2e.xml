@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicator_breakdown_ex">
+    <pa_job_indicator_breakdown_ex action="DELETE">
+        <breakdown display_value="Problem Assigned to">267fa54d1b520110507ac803604bcb69</breakdown>
+        <job_indicator display_value="temporary job for collecting Resolution code - Problem: Due Monthly">f9ffedc91b520110507ac803604bcb1d</job_indicator>
+        <sys_class_name>pa_job_indicator_breakdown_ex</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-16 02:47:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>79ffe58d1b520110507ac803604bcb2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Problem Assigned to.temporary job for collecting Resolution code - Problem: Due Monthly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_job_indicator_breakdown_ex_79ffe58d1b520110507ac803604bcb2e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-16 02:47:28</sys_updated_on>
+    </pa_job_indicator_breakdown_ex>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d4105c31dbb7a010f37acac505961976</instance_id>
+        <instance_name>dev112687</instance_name>
+        <name>pa_job_indicator_breakdown_ex_79ffe58d1b520110507ac803604bcb2e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicator_breakdown_ex"><pa_job_indicator_breakdown_ex action="INSERT_OR_UPDATE"><breakdown display_value="Problem Assigned to">267fa54d1b520110507ac803604bcb69</breakdown><job_indicator display_value="temporary job for collecting Resolution code - Problem: Due Monthly">f9ffedc91b520110507ac803604bcb1d</job_indicator><sys_class_name>pa_job_indicator_breakdown_ex</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-16 02:47:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>79ffe58d1b520110507ac803604bcb2e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Problem Assigned to.temporary job for collecting Resolution code - Problem: Due Monthly</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_job_indicator_breakdown_ex_79ffe58d1b520110507ac803604bcb2e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-16 02:47:28</sys_updated_on></pa_job_indicator_breakdown_ex></record_update>]]></payload>
+        <payload_hash>-1309799708</payload_hash>
+        <record_name>f9ffedc91b520110507ac803604bcb1d</record_name>
+        <reverted_from/>
+        <source>9a9a95761b020110507ac803604bcb04</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-16 02:47:28</sys_created_on>
+        <sys_id>f1ffe58d1b520110507ac803604bcb30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f909f86430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-16 02:47:28</sys_updated_on>
+        <type>Job Indicator Breakdown exclusions</type>
+        <update_guid>3dffe58dc752011058d4c1c2a510842f</update_guid>
+        <update_guid_history>3dffe58dc752011058d4c1c2a510842f:-1309799708</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="temporary job for collecting Resolution code - Problem: Due Monthly">b3a682011bd20110507ac803604bcb8f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-16 04:26:43</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicator_breakdown_ex">pa_job_indicator_breakdown_ex</sys_db_object>
+        <sys_id>6446959a13d540289463d35ebf673709</sys_id>
+        <sys_metadata>79ffe58d1b520110507ac803604bcb2e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Problem Assigned to.temporary job for collecting Resolution code - Problem: Due Monthly</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_job_indicator_breakdown_ex_79ffe58d1b520110507ac803604bcb2e</sys_update_name>
+        <sys_update_version display_value="pa_job_indicator_breakdown_ex_79ffe58d1b520110507ac803604bcb2e">f1ffe58d1b520110507ac803604bcb30</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-16 04:26:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
